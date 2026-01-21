@@ -2,6 +2,11 @@
 
 CLI Task Manager built with **Singly Linked List** in C++.
 
+## Quick Start
+1. Click "Code" → "Download ZIP" 
+2. Extract → `g++ task.cpp -o task && ./task`
+
+
 ## Demo
 === Task Manager ===
 
