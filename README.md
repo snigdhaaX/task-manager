@@ -1,6 +1,6 @@
-# Linked List Task Manager 🚀
+# Linked List Task Manager 
 
-CLI Task Manager built with **Singly Linked List** in C++. Perfect DSA project for internships!
+CLI Task Manager built with **Singly Linked List** in C++.
 
 ## Demo
 === Task Manager ===
